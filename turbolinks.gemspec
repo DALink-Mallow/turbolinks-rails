@@ -13,6 +13,5 @@ Gem::Specification.new do |s|
   s.metadata = {
     "source_code_uri" => "https://github.com/turbolinks/turbolinks-rails",
   }
-
-  s.add_dependency 'turbolinks-source', '~> 5.2'
+  
 end
